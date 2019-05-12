@@ -1,4 +1,4 @@
-You have reached Stanford's Undergraduate Physics Journal Club! In Spring 2019, we meet Saturday afternoons at 4pm on the 4th floor of Varian. Anybody of any level of physics knowledge is encouraged to come. Every meeting, one student signs up to give an informal seminar on any physics topic of their choosing, accompanied by snacks and followed by a discussion. The paper for each week is circulated in advance via our [Slack channel.](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
+You have reached Stanford's Undergraduate Physics Journal Club! In Spring 2019, we meet Saturday afternoons at 4pm on the 4th floor of Varian. Anybody of any level of physics knowledge is encouraged to come. Every meeting, one student signs up to give an informal seminar on any physics topic of their choosing, accompanied by snacks and followed by a discussion. The paper for each week is circulated in advance via our [Slack channel.](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM). We are supported by the [Stanford Society of Physics Students.](https://web.stanford.edu/group/sps/about.htm)
 
 Our objectives are to: 
 1. Develop a community of students interested in exploring cutting edge topics in physics together.
@@ -23,3 +23,9 @@ Loosely based on the following:
 - [Integrated Zero-Index Metamaterials](https://www.osapublishing.org/abstract.cfm?URI=IPRSN-2018-ITh3J.3)
 - *The theory of Brillouin Zones and Electronic states in Crystals,* H. Jones
 - *Introduction to Solid State Physics,* C. Kittel
+
+
+
+
+
+
