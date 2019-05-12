@@ -1,3 +1,1 @@
-# Stanford's Undergraduate Physics Journal Club
-
-You have reached Stanford's Undergraduate Physics Journal Club :) 
+You have reached Stanford's Undergraduate Physics Journal Club! We meet Saturday afternoons at 4pm on the 4th floor of Varian. Anybody of any level of physics knowledge is encouraged to come. Our meetings typically last about an hour
