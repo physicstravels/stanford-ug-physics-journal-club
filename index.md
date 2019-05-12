@@ -5,7 +5,7 @@ Our objectives are to:
 2. Provide a no-stress, informal environment for students to practice giving talks to their peers and receive feedback.   
 3. Make the notion of "physics research" more accessible to undergraduate students, and act as a medium to spread information about thing like: finding research opportunities, presenting at poster sessions and conferences, writing research papers, and more. 
 
-Join our [Slack to stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
+Join our [Slack and stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**  
 *May 18, 2019:* Diego Roque  
