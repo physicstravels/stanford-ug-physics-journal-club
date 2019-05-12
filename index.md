@@ -8,6 +8,7 @@ Our objectives are to:
 Join our [Slack to stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**
+
 May 18, 2019 
 Diego Roque: topic TBA
 
@@ -15,6 +16,7 @@ May 25, 2019
 Egor Alimpiev: topic TBA
 
 **Past Talks**
+
 May 11, 2019 
 Oliver Miller: solid state physics, Brillouin zones, and photonics crystals.
 Loosely based on the following: 
