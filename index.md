@@ -17,7 +17,7 @@ topic TBA
 **Past Talks**  
 *May 11, 2019:* Oliver Miller   
 Solid state physics, Brillouin zones, and photonic crystals.  
-Loosely based on the following: 
+Loosely based on the following:
 - [Manipulating the flow of light using Dirac-cone zero-index metamaterials](https://iopscience.iop.org/article/10.1088/1361-6633/aad3e5/meta)
 - [Photonic Crystals: Molding the flow of light](http://ab-initio.mit.edu/book/)
 - [Integrated Zero-Index Metamaterials](https://www.osapublishing.org/abstract.cfm?URI=IPRSN-2018-ITh3J.3)
