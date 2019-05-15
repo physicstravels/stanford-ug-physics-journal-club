@@ -9,7 +9,7 @@ Join our [Slack and stay up to date on papers and discussions!](https://join.sla
 
 **Upcoming Talks**  
 *May 18, 2019:* Diego Roque  
-Category theory and physics. 
+Category theory and physics.  
 Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https://arxiv.org/abs/0803.0417)
 
 *May 25, 2019:* Egor Alimpiev  
