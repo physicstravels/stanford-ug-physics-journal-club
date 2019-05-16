@@ -15,6 +15,9 @@ Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https:/
 *May 25, 2019:* Egor Alimpiev  
 topic TBA
 
+*June 1, 2019:* Galit
+Intro to manifolds and cosmic topology . 
+
 **Past Talks**  
 *May 11, 2019:* Oliver Miller   
 Solid state physics, Brillouin zones, and photonic crystals.  
