@@ -16,7 +16,7 @@ Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https:/
 topic TBA
 
 *June 1, 2019:* Galit Anikeeva  
-Intro to manifolds and cosmic topology.  
+Introduction to manifolds and applications to cosmic topology.  
 Inspired by readings from [Introduction to Manifolds, by Wu](https://www.springer.com/us/book/9781441973993)
 
 **Past Talks**  
