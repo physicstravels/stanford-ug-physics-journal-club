@@ -15,8 +15,9 @@ Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https:/
 *May 25, 2019:* Egor Alimpiev  
 topic TBA
 
-*June 1, 2019:* Galit
-Intro to manifolds and cosmic topology . 
+*June 1, 2019:* Galit Anikeeva  
+Intro to manifolds and cosmic topology.  
+Inspired by readings from [Introduction to Manifolds, by Wu](https://www.springer.com/us/book/9781441973993)
 
 **Past Talks**  
 *May 11, 2019:* Oliver Miller   
