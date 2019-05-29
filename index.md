@@ -8,12 +8,13 @@ Our objectives are to:
 Join our [Slack and stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**  
-*May 18, 2019:* Diego Roque  
-Category theory and physics.  
-Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https://arxiv.org/abs/0803.0417)
+*June 1, 2019:* Galit Anikeeva  
+Cosmic topology.
+Based on:  
+[The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
+as well as readings from [An Introduction to Manifolds](https://www.springer.com/us/book/9781441973993)
 
-*May 25, 2019:* Egor Alimpiev  
-topic TBA
+**Past Talks**
 
 *May 11, 2019:* Oliver Miller   
 Solid state physics, Brillouin zones, and photonic crystals.  
@@ -23,6 +24,16 @@ Loosely based on the following:
 - [Integrated Zero-Index Metamaterials](https://www.osapublishing.org/abstract.cfm?URI=IPRSN-2018-ITh3J.3)
 - *The theory of Brillouin Zones and Electronic states in Crystals,* H. Jones
 - *Introduction to Solid State Physics,* C. Kittel
+
+*May 18, 2019:* Diego Roque  
+Category theory and physics.  
+Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https://arxiv.org/abs/0803.0417)
+
+*May 25, 2019:* Egor Alimpiev  
+Dancing droplets, biophysics, and computation.
+Based on:  
+[Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)  
+[Synchronous universal droplet logic and control](https://www.nature.com/articles/nphys3341)
 
 
 
