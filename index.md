@@ -10,7 +10,7 @@ Join our [Slack and stay up to date on papers and discussions!](https://join.sla
 **Upcoming Talks**  
 *June 1, 2019:* Galit Anikeeva  
 Cosmic topology.  
-Based on:[The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
+Based on: [The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
 as well as readings from [An Introduction to Manifolds](https://www.springer.com/us/book/9781441973993)
 
 **Past Talks**
