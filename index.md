@@ -9,9 +9,8 @@ Join our [Slack and stay up to date on papers and discussions!](https://join.sla
 
 **Upcoming Talks**  
 *June 1, 2019:* Galit Anikeeva  
-Cosmic topology.
-Based on:  
-[The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
+Cosmic topology.  
+Based on:[The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
 as well as readings from [An Introduction to Manifolds](https://www.springer.com/us/book/9781441973993)
 
 **Past Talks**
@@ -30,7 +29,7 @@ Category theory and physics.
 Based on: [What is a Thing?: Topos Theory in the Foundations of Physics](https://arxiv.org/abs/0803.0417)
 
 *May 25, 2019:* Egor Alimpiev  
-Dancing droplets, biophysics, and computation.
+Dancing droplets, biophysics, and computation.  
 Based on:  
 [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)  
 [Synchronous universal droplet logic and control](https://www.nature.com/articles/nphys3341)
