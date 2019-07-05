@@ -9,7 +9,7 @@ Join our [Slack and stay up to date on papers and discussions!](https://join.sla
 
 **Upcoming Talks**  
 *July 7, 2019:* Yağmur Erhan  
-Composite pulese in AMO.  
+Composite pulses in AMO.  
 Based on: [Composite Pulses](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470034590.emrstm0086)  
 
 *TBD:* Galit Anikeeva  
