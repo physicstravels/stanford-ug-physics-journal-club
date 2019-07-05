@@ -8,7 +8,11 @@ Our objectives are to:
 Join our [Slack and stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**  
-*June 1, 2019:* Galit Anikeeva  
+*July 7, 2019:* Yağmur Erhan 
+Composite pulese in AMO.  
+Based on: [Composite Pulses](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470034590.emrstm0086)  
+
+*TBD:* Galit Anikeeva  
 Cosmic topology.  
 Based on: [The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
 as well as readings from [An Introduction to Manifolds](https://www.springer.com/us/book/9781441973993)
