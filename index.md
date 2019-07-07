@@ -8,10 +8,6 @@ Our objectives are to:
 Join our [Slack and stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**  
-*July 7, 2019:* Yağmur Erhan  
-Composite pulses in AMO.  
-Based on: [Composite Pulses](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470034590.emrstm0086)  
-
 *TBD:* Galit Anikeeva  
 Cosmic topology.  
 Based on: [The Shape of the Universe: Ten Possibilities](https://www.americanscientist.org/sites/americanscientist.org/files/200522415348_306.pdf)  
@@ -38,7 +34,9 @@ Based on:
 [Vapour-mediated sensing and motility in two-component droplets](https://www.nature.com/articles/nature14272)  
 [Synchronous universal droplet logic and control](https://www.nature.com/articles/nphys3341)
 
-
+*July 7, 2019:* Yağmur Erhan  
+Composite pulses in AMO.  
+Based on: [Composite Pulses](https://onlinelibrary.wiley.com/doi/abs/10.1002/9780470034590.emrstm0086)  
 
 
 
