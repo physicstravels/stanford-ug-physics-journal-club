@@ -8,7 +8,7 @@ Our objectives are to:
 Join our [Slack and stay up to date on papers and discussions!](https://join.slack.com/t/physicsjournalclub/shared_invite/enQtNTkwMjUyNTk1NzYyLTZmZDU1NTVkMDliMzhmNjdmN2Q3MmM0ZjljOGMzYjI0YzAyMTBkNGU1NmE0OWQ4ZDdjOGRlNTI5ZDU0MDY5MjM)
 
 **Upcoming Talks**  
-
+*TBD* 
 
 **Past Talks**
 
